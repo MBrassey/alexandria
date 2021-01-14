@@ -10,7 +10,7 @@
 
 ## alexandria
 
-MERN (MongoDB, Express.js, React, and Node.js) stack book search & save with GraphQL. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas. I took this existing REST API based application, and converted it in to a GraphQL implemented API using schemas & mutations.
+MERN (MongoDB, Express.js, React, and Node.js) stack book search & save with GraphQL. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas. I took this existing RESTful API, and converted it in to a GraphQL API built with Apollo Server.
 
 [![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)](https://github.com/MBrassey/alexandria/blob/main/LICENSE)
 
