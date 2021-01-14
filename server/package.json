@@ -8,8 +8,8 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Matt Brassey",
+  "license": "CC0-1.0",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",

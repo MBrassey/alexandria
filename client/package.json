@@ -21,6 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Matt Brassey",
+  "license": "CC0-1.0",
   "eslintConfig": {
     "extends": "react-app"
   },
