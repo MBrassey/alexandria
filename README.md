@@ -37,6 +37,7 @@ MERN (MongoDB, Express.js, React, and Node.js) stack book search & save with Gra
     npm run seed
     npm start
     browse to http://localhost:3000/
+    browse to http://localhost:3001/graphql/
 
 <h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://mbrassey-alexandria.herokuapp.com/">webapplication</a></p></h6>
 
