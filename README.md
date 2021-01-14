@@ -1,2 +1,2 @@
 # alexandria
-MERN stack book search
+MERN stack book search with GraphQL
