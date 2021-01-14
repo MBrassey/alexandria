@@ -1,5 +1,6 @@
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Cinzel', serif;
+  background-color: #394b59;
 }
 
 h1,
@@ -8,10 +9,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'Cinzel', serif;
+  color: #2c90c6;
 }
 
 .small {
   font-weight: 300;
   font-style: italic;
+  color: #2c90c6;
 }
